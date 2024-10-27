@@ -13,23 +13,14 @@ Winner Detection: The game checks for wins or draws after each move.
 Python 3.x
 NumPy library
 
-## Example GamePlay
-Layer 1:
-[[0 0 0]
- [0 0 0]
- [0 0 0]]
+##Run the game:
 
-Layer 2:
-[[0 0 0]
- [0 0 0]
- [0 0 0]]
+### python 3d_tic_tac_toe.py
+Follow the on-screen instructions to enter your moves in the format x y z, where x, y, and z are coordinates on the 3D board (values range from 0 to 2).
 
-Layer 3:
-[[0 0 0]
- [0 0 0]
- [0 0 0]]
+The computer will make its move automatically after your turn.
 
-Enter your move (x y z): 1 1 1
+The game will announce the winner or if it ends in a draw.
 
 
 
