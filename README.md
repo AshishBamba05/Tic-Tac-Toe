@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
-# Overview
+## Overview
 This project implements a 3D Tic Tac Toe game in Python, where players can compete against an AI that plays optimally using the Minimax algorithm. The game features a 3x3x3 board, providing a more complex and engaging experience compared to traditional 2D Tic Tac Toe.
 
-Features
+## Features
 3D Gameplay: Play on a 3x3x3 board.
 AI Opponent: The computer uses the Minimax algorithm to make optimal moves.
 User Input: Players can input their moves easily.
