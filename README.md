@@ -23,5 +23,6 @@ The computer will make its move automatically after your turn.
 The game will announce the winner or if it ends in a draw.
 
 
-
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
