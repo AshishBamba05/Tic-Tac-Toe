@@ -13,7 +13,7 @@ Winner Detection: The game checks for wins or draws after each move.
 Python 3.x
 NumPy library
 
-##Run the game:
+## Run the game:
 
 ### python 3d_tic_tac_toe.py
 Follow the on-screen instructions to enter your moves in the format x y z, where x, y, and z are coordinates on the 3D board (values range from 0 to 2).
